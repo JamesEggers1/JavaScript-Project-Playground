@@ -11,9 +11,12 @@ General Structure:
 - lib - used for 3rd party libraries (e.g. jQuery)
 - src - home of custom source files
 - tests - home of test files
+- tests-lib - home for 3rd party libraries used solely for testing. (debating this one)
 
 Current Dependencies:
-- jQuery <http://www.jquery.com> (Licensed under the MIT and GPL licenses)
+- jQuery <http://www.jquery.com> (MIT, GPL)
+- json2.js <http://www.JSON.org/js.html> (public domain)
 - JsTestDriver <http://code.google.com/p/js-test-driver/>
+- jQuery-Mockjax <http://github.com/appendto/jquery-mockjax> (MIT, GPL)
 
 2011 July 02 - Initial Project Setup.
