@@ -11,7 +11,7 @@ General Structure:
 - lib - used for 3rd party libraries (e.g. jQuery)
 - src - home of custom source files
 - tests - home of test files
-- tests-lib - home for 3rd party libraries used solely for testing. (debating this one)
+- tests-lib - home for 3rd party libraries used solely for testing.
 
 Current Dependencies:
 - jQuery <http://www.jquery.com> (MIT, GPL)
@@ -20,3 +20,6 @@ Current Dependencies:
 - jQuery-Mockjax <http://github.com/appendto/jquery-mockjax> (MIT, GPL)
 
 2011 July 02 - Initial Project Setup.
+2011 Sept 06 - Added Utils directory
+             - Setup Utils namespace and rewrote Ajax object to reflect.
+             - Decided to keep test-lib dir for testing-only libraries.
