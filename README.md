@@ -22,7 +22,7 @@ This project is a simple sandbox for me to play around and try different ideas f
 - jQuery-Mockjax <http://github.com/appendto/jquery-mockjax> (MIT, GPL)
 
 ## Current Changelog:
-2011 July 02 - Initial Project Setup.
-2011 Sept 06 - Added Utils directory
-             - Setup Utils namespace and rewrote Ajax object to reflect.
-             - Decided to keep test-lib dir for testing-only libraries.
+- 2011 July 02 - Initial Project Setup.
+- 2011 Sept 06 - Added Utils directory
+               - Setup Utils namespace and rewrote Ajax object to reflect.
+               - Decided to keep test-lib dir for testing-only libraries.
